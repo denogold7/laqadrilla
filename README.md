@@ -209,4 +209,4 @@ Toma los agentes existentes como referencia de estilo.
 
 ## Licencia
 
-Licencia **MIT** — © 2026 **JirenDen**. Puedes usarlo, modificarlo y compartirlo libremente; se entrega sin garantías.
+Licencia **MIT** — © 2026 **JirenDen**.
